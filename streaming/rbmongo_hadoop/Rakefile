@@ -1,0 +1,6 @@
+task :default => [:test]
+
+desc "Test"
+task :test do |t|
+  Rake::Task['test'].invoke
+end

@@ -1,0 +1,1 @@
+hadoop jar target/mongo-hadoop-streaming-1.0-SNAPSHOT.jar -mapper tmapper.py -reducer treducer.py -inputformat com.mongodb.hadoop.mapred.MongoInputFormat -outputformat com.mongodb.hadoop.mapred.MongoOutputFormat -inputURI mongodb://127.0.0.1/twitter.tweets -outputURI mongodb://127.0.0.1/twitter.tweets_timezone.out
