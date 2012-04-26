@@ -1,0 +1,41 @@
+[0m[[0mdebug[0m] [0mOther repositories:[0m
+[0m[[0mdebug[0m] [0mDefault repositories:[0m
+[0m[[0mdebug[0m] [0m	Raw(ProjectResolver(inter-project, mapped: org.mongodb#mongo-hadoop-core_cdh3u3;1.0.0-rc0))[0m
+[0m[[0mdebug[0m] [0m	FileRepository(local,FileConfiguration(true,None),sbt.Patterns@32408add)[0m
+[0m[[0mdebug[0m] [0m	Simile Repo at MIT: http://simile.mit.edu/maven[0m
+[0m[[0mdebug[0m] [0m	Cloudera Repository: https://repository.cloudera.com/artifactory/cloudera-repos/[0m
+[0m[[0mdebug[0m] [0m	Maven.Org Repository: http://repo1.maven.org/maven2/org/[0m
+[0m[[0mdebug[0m] [0m	releases: https://oss.sonatype.org/content/repositories/releases[0m
+[0m[[0mdebug[0m] [0m	public: http://repo1.maven.org/maven2/[0m
+[0m[[0mdebug[0m] [0m	Scala-Tools Maven2 Repository: http://scala-tools.org/repo-releases[0m
+[0m[[0mdebug[0m] [0mUsing inline dependencies specified in Scala.[0m
+[0m[[0minfo[0m] [0mResolving org.mongodb#mongo-hadoop-core_cdh3u3;1.0.0-rc0 ...[0m
+[0m[[0minfo[0m] [0mResolving org.mongodb#mongo-java-driver;2.7.3 ...[0m
+[0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-core;0.20.2-cdh3u3 ...[0m
+[0m[[0minfo[0m] [0mResolving com.cloudera.cdh#hadoop-ant;3.0-u3 ...[0m
+[0m[[0minfo[0m] [0mResolving commons-cli#commons-cli;1.2 ...[0m
+[0m[[0minfo[0m] [0mResolving xmlenc#xmlenc;0.52 ...[0m
+[0m[[0minfo[0m] [0mResolving org.apache.hadoop.thirdparty.guava#guava;r09-jarjar ...[0m
+[0m[[0minfo[0m] [0mResolving commons-httpclient#commons-httpclient;3.1 ...[0m
+[0m[[0minfo[0m] [0mResolving commons-logging#commons-logging;1.0.4 ...[0m
+[0m[[0minfo[0m] [0mResolving commons-codec#commons-codec;1.4 ...[0m
+[0m[[0minfo[0m] [0mResolving commons-net#commons-net;1.4.1 ...[0m
+[0m[[0minfo[0m] [0mResolving oro#oro;2.0.8 ...[0m
+[0m[[0minfo[0m] [0mResolving org.mortbay.jetty#jetty;6.1.26 ...[0m
+[0m[[0minfo[0m] [0mResolving org.mortbay.jetty#jetty-util;6.1.26 ...[0m
+[0m[[0minfo[0m] [0mResolving org.mortbay.jetty#servlet-api;2.5-20081211 ...[0m
+[0m[[0minfo[0m] [0mResolving tomcat#jasper-runtime;5.5.23 ...[0m
+[0m[[0minfo[0m] [0mResolving javax.servlet#servlet-api;2.5 ...[0m
+[0m[[0minfo[0m] [0mResolving commons-el#commons-el;1.0 ...[0m
+[0m[[0minfo[0m] [0mResolving tomcat#jasper-compiler;5.5.23 ...[0m
+[0m[[0minfo[0m] [0mResolving javax.servlet#jsp-api;2.0 ...[0m
+[0m[[0minfo[0m] [0mResolving ant#ant;1.6.5 ...[0m
+[0m[[0minfo[0m] [0mResolving org.codehaus.jackson#jackson-core-asl;1.5.2 ...[0m
+[0m[[0minfo[0m] [0mResolving org.codehaus.jackson#jackson-mapper-asl;1.5.2 ...[0m
+[0m[[0minfo[0m] [0mResolving javax.servlet.jsp#jsp-api;2.1 ...[0m
+[0m[[0minfo[0m] [0mResolving net.java.dev.jets3t#jets3t;0.6.1 ...[0m
+[0m[[0minfo[0m] [0mResolving hsqldb#hsqldb;1.8.0.7 ...[0m
+[0m[[0minfo[0m] [0mResolving org.eclipse.jdt#core;3.1.1 ...[0m
+[0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-streaming;0.20.2-cdh3u3 ...[0m
+[0m[[0minfo[0m] [0mResolving com.cloudera.cdh#hadoop-root;3.0-u3 ...[0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.9.1 ...[0m
